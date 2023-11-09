@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>site</title>
+
+        <style>
+            body {
+                font-size: 20px;
+                }
+        </style>
+       <link rel="stylesheet" href="css/t.css"
+ 
+    </head>
+    <body>
+        <h1>the first slide</h1>
+        <span style='font-size:50px;'>&#128514;</span>
+        <span style='font-size:50px;'>&#128554;</span>
+        <span style='font-size:50px;'>&#128532;</span>
+        <span style='font-size:50px;'>&#128687;</span>
+        <span style='font-size:50px;'>&#128521;</span>
+        <span style='font-size:50px;'>&#128536;</span>
+        <span style='font-size:50px;'>&#128592;</span>
+        <span style='font-size:50px;'>&#128421;</span>
+
+
+
+
+        <a href="www.google.com" target="_blank"><h1>another page</h1></a>
+        <hr>
+        <img src="C:\Users\Softlaptop\Desktop\html\.webp" >
+        <p>Adel<br>Ezzat</p>
+        <i>Adel</i>
+        <strong>Adel</strong>
+        <h1>H<sub>2</sub>O</h1>
+        <h1>My Name is<mark>Adel</mark></h1>
+
+    <ul>
+        <li>home </li>
+        <li>page</li>
+        <li> link</li>
+    </ul>
+
+
+    <a href=" file:///C:/Users/Softlaptop/Desktop/web/index.html" target="_blank">
+        <img src="40f5599c3ea602864691b777506baf59_17dd61aa6a7b272abd5a28940ad416bb.webp" >
+    </a>
+
+
+  
+    <figure>
+        <img src="40f5599c3ea602864691b777506baf59_17dd61aa6a7b272abd5a28940ad416bb.webp">
+        <figcaption><i>Free Palestine</i></figcaption>
+    </figure>
+
+    <p class="tab">click on the button to play </p>
+    <audio controls>
+        <source src="oo.opus" type="audio/opus">
+    </audio>
+
+    <video style="size: 100px;" controls >
+    <source src="shalaby.mp4" type="video/mp4">
+    </video>
+
+    <p>Adel  <b>IT</b></p>
+
+    <p>my name is <mark>Adel</mark></p>
+    <p>the price is 80$ instead of <dal>100$</dal></p>
+    <p><dal>100$</dal>thos is &lt;p&gt; price</p>
+   
+    <ol type="1">
+        <li>Adel</li>
+        <li>Gamal</li>
+        <li>ahmed
+            <ol type="I">
+                <li>Ali</li>
+                <li>mariam</li>
+            </ol>
+        </li>
+
+    </ol>
+    <table border="5">
+        <caption>cities</caption>
+        <tr>
+            <th rowspan="2">city </th>
+            <th colspan="2"> Tempreture</th>
+        </tr>
+        <tr>
+            <th>Low</th>
+            <th>High</th>
+        </tr>
+        <tr>
+            <td>Acapulco</td>
+            <td>11</td>
+            <td>40.5</td>
+        </tr>
+        <tr>
+            <td>ciudad victcria</td>
+            <td>-6.1</td>
+            <td>46</td>
+        </tr>
+        <tr>
+            <td>Guadalajara</td>
+            <td>-5.5</td>
+            <td>39.6</td>
+        </tr>
+        <tr>
+            <td>la paz </td>
+            <td>-0.6</td>
+            <td>43.1</td>
+        </tr>
+        <tr>
+            <td>mexical</td>
+            <td>-8</td>
+            <td>52</td>
+        </tr>
+
+
+
+    </table>
+
+    <form action="" >
+        First name :<br>
+        <input type="text" value="">
+        <br>
+
+        Last name :<br>
+        <input type="text" name="" value="">
+        <br>
+
+        password :<br>
+        <input type="password" name="" value="">
+        <br>
+        <input type="submit" value="login">
+
+    </form>
+    <form>
+        <label>username</label>
+        <input type="text" >
+        <label>password</label>
+        <input type="password">
+        
+    </form>
+     
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+    </body>
+</html>
